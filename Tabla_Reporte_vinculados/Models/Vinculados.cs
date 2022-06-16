@@ -2,7 +2,7 @@
 {
     public class Vinculados
     {
-        // Nombre,Apellido,Telefono,Correo,Direccion,Pais
+        // Nombre,Apellido,Telefono,Correo,Direccion,Pais....etc
 
 
         public string Nombres { get; set; }
